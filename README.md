@@ -5,3 +5,4 @@ Recentemente, meu interesse em estudar lógica de programação aumentou, então
 
 É um excelente material para quem deseja começar ou até mesmo exercitar sua lógica usando JavaScript — de quebra, aprendendo uma linguagem que pode ser utilizada profissionalmente no futuro como programador.
 
+
